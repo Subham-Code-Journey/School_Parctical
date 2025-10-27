@@ -44,4 +44,4 @@ Through these projects, I aim to:
 ## ⚙️ How to Run the Programs
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Subham-Code-Journey/School_Parctical.git
